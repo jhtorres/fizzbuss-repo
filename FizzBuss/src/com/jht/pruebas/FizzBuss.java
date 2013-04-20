@@ -33,7 +33,7 @@ public class FizzBuss {
 			} else 
 				System.out.println("i=" + i);
 		}
-
+		System.out.println(OtraClaseParaPruebas.hola());
 	}
 
 }
